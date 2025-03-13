@@ -1,2 +1,2 @@
-# Junior-Adjiey.
+# Junior-Adjiey
 My personal repository.
